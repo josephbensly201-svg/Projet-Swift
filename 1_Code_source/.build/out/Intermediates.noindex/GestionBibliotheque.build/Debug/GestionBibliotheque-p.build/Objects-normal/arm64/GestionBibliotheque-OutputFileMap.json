@@ -1,0 +1,79 @@
+{
+  "" : {
+    "diagnostics" : "/Users/jatala/Pictures/Projet_Swift_Gestion_Bibliotheque/1_Code_source/.build/out/Intermediates.noindex/GestionBibliotheque.build/Debug/GestionBibliotheque-p.build/Objects-normal/arm64/GestionBibliotheque-primary.dia",
+    "emit-module-dependencies" : "/Users/jatala/Pictures/Projet_Swift_Gestion_Bibliotheque/1_Code_source/.build/out/Intermediates.noindex/GestionBibliotheque.build/Debug/GestionBibliotheque-p.build/Objects-normal/arm64/GestionBibliotheque-primary-emit-module.d",
+    "emit-module-diagnostics" : "/Users/jatala/Pictures/Projet_Swift_Gestion_Bibliotheque/1_Code_source/.build/out/Intermediates.noindex/GestionBibliotheque.build/Debug/GestionBibliotheque-p.build/Objects-normal/arm64/GestionBibliotheque-primary-emit-module.dia",
+    "pch" : "/Users/jatala/Pictures/Projet_Swift_Gestion_Bibliotheque/1_Code_source/.build/out/Intermediates.noindex/GestionBibliotheque.build/Debug/GestionBibliotheque-p.build/Objects-normal/arm64/GestionBibliotheque-primary-Bridging-header.pch",
+    "swift-dependencies" : "/Users/jatala/Pictures/Projet_Swift_Gestion_Bibliotheque/1_Code_source/.build/out/Intermediates.noindex/GestionBibliotheque.build/Debug/GestionBibliotheque-p.build/Objects-normal/arm64/GestionBibliotheque-primary.swiftdeps"
+  },
+  "/Users/jatala/Pictures/Projet_Swift_Gestion_Bibliotheque/1_Code_source/Sources/GestionBibliotheque/Adherent.swift" : {
+    "const-values" : "/Users/jatala/Pictures/Projet_Swift_Gestion_Bibliotheque/1_Code_source/.build/out/Intermediates.noindex/GestionBibliotheque.build/Debug/GestionBibliotheque-p.build/Objects-normal/arm64/Adherent.swiftconstvalues",
+    "dependencies" : "/Users/jatala/Pictures/Projet_Swift_Gestion_Bibliotheque/1_Code_source/.build/out/Intermediates.noindex/GestionBibliotheque.build/Debug/GestionBibliotheque-p.build/Objects-normal/arm64/Adherent.d",
+    "diagnostics" : "/Users/jatala/Pictures/Projet_Swift_Gestion_Bibliotheque/1_Code_source/.build/out/Intermediates.noindex/GestionBibliotheque.build/Debug/GestionBibliotheque-p.build/Objects-normal/arm64/Adherent.dia",
+    "index-unit-output-path" : "/GestionBibliotheque.build/Debug/GestionBibliotheque-p.build/Objects-normal/arm64/Adherent.o",
+    "llvm-bc" : "/Users/jatala/Pictures/Projet_Swift_Gestion_Bibliotheque/1_Code_source/.build/out/Intermediates.noindex/GestionBibliotheque.build/Debug/GestionBibliotheque-p.build/Objects-normal/arm64/Adherent.bc",
+    "object" : "/Users/jatala/Pictures/Projet_Swift_Gestion_Bibliotheque/1_Code_source/.build/out/Intermediates.noindex/GestionBibliotheque.build/Debug/GestionBibliotheque-p.build/Objects-normal/arm64/Adherent.o",
+    "swift-dependencies" : "/Users/jatala/Pictures/Projet_Swift_Gestion_Bibliotheque/1_Code_source/.build/out/Intermediates.noindex/GestionBibliotheque.build/Debug/GestionBibliotheque-p.build/Objects-normal/arm64/Adherent.swiftdeps",
+    "swiftmodule" : "/Users/jatala/Pictures/Projet_Swift_Gestion_Bibliotheque/1_Code_source/.build/out/Intermediates.noindex/GestionBibliotheque.build/Debug/GestionBibliotheque-p.build/Objects-normal/arm64/Adherent~partial.swiftmodule"
+  },
+  "/Users/jatala/Pictures/Projet_Swift_Gestion_Bibliotheque/1_Code_source/Sources/GestionBibliotheque/Bibliotheque.swift" : {
+    "const-values" : "/Users/jatala/Pictures/Projet_Swift_Gestion_Bibliotheque/1_Code_source/.build/out/Intermediates.noindex/GestionBibliotheque.build/Debug/GestionBibliotheque-p.build/Objects-normal/arm64/Bibliotheque.swiftconstvalues",
+    "dependencies" : "/Users/jatala/Pictures/Projet_Swift_Gestion_Bibliotheque/1_Code_source/.build/out/Intermediates.noindex/GestionBibliotheque.build/Debug/GestionBibliotheque-p.build/Objects-normal/arm64/Bibliotheque.d",
+    "diagnostics" : "/Users/jatala/Pictures/Projet_Swift_Gestion_Bibliotheque/1_Code_source/.build/out/Intermediates.noindex/GestionBibliotheque.build/Debug/GestionBibliotheque-p.build/Objects-normal/arm64/Bibliotheque.dia",
+    "index-unit-output-path" : "/GestionBibliotheque.build/Debug/GestionBibliotheque-p.build/Objects-normal/arm64/Bibliotheque.o",
+    "llvm-bc" : "/Users/jatala/Pictures/Projet_Swift_Gestion_Bibliotheque/1_Code_source/.build/out/Intermediates.noindex/GestionBibliotheque.build/Debug/GestionBibliotheque-p.build/Objects-normal/arm64/Bibliotheque.bc",
+    "object" : "/Users/jatala/Pictures/Projet_Swift_Gestion_Bibliotheque/1_Code_source/.build/out/Intermediates.noindex/GestionBibliotheque.build/Debug/GestionBibliotheque-p.build/Objects-normal/arm64/Bibliotheque.o",
+    "swift-dependencies" : "/Users/jatala/Pictures/Projet_Swift_Gestion_Bibliotheque/1_Code_source/.build/out/Intermediates.noindex/GestionBibliotheque.build/Debug/GestionBibliotheque-p.build/Objects-normal/arm64/Bibliotheque.swiftdeps",
+    "swiftmodule" : "/Users/jatala/Pictures/Projet_Swift_Gestion_Bibliotheque/1_Code_source/.build/out/Intermediates.noindex/GestionBibliotheque.build/Debug/GestionBibliotheque-p.build/Objects-normal/arm64/Bibliotheque~partial.swiftmodule"
+  },
+  "/Users/jatala/Pictures/Projet_Swift_Gestion_Bibliotheque/1_Code_source/Sources/GestionBibliotheque/Livre.swift" : {
+    "const-values" : "/Users/jatala/Pictures/Projet_Swift_Gestion_Bibliotheque/1_Code_source/.build/out/Intermediates.noindex/GestionBibliotheque.build/Debug/GestionBibliotheque-p.build/Objects-normal/arm64/Livre.swiftconstvalues",
+    "dependencies" : "/Users/jatala/Pictures/Projet_Swift_Gestion_Bibliotheque/1_Code_source/.build/out/Intermediates.noindex/GestionBibliotheque.build/Debug/GestionBibliotheque-p.build/Objects-normal/arm64/Livre.d",
+    "diagnostics" : "/Users/jatala/Pictures/Projet_Swift_Gestion_Bibliotheque/1_Code_source/.build/out/Intermediates.noindex/GestionBibliotheque.build/Debug/GestionBibliotheque-p.build/Objects-normal/arm64/Livre.dia",
+    "index-unit-output-path" : "/GestionBibliotheque.build/Debug/GestionBibliotheque-p.build/Objects-normal/arm64/Livre.o",
+    "llvm-bc" : "/Users/jatala/Pictures/Projet_Swift_Gestion_Bibliotheque/1_Code_source/.build/out/Intermediates.noindex/GestionBibliotheque.build/Debug/GestionBibliotheque-p.build/Objects-normal/arm64/Livre.bc",
+    "object" : "/Users/jatala/Pictures/Projet_Swift_Gestion_Bibliotheque/1_Code_source/.build/out/Intermediates.noindex/GestionBibliotheque.build/Debug/GestionBibliotheque-p.build/Objects-normal/arm64/Livre.o",
+    "swift-dependencies" : "/Users/jatala/Pictures/Projet_Swift_Gestion_Bibliotheque/1_Code_source/.build/out/Intermediates.noindex/GestionBibliotheque.build/Debug/GestionBibliotheque-p.build/Objects-normal/arm64/Livre.swiftdeps",
+    "swiftmodule" : "/Users/jatala/Pictures/Projet_Swift_Gestion_Bibliotheque/1_Code_source/.build/out/Intermediates.noindex/GestionBibliotheque.build/Debug/GestionBibliotheque-p.build/Objects-normal/arm64/Livre~partial.swiftmodule"
+  },
+  "/Users/jatala/Pictures/Projet_Swift_Gestion_Bibliotheque/1_Code_source/Sources/GestionBibliotheque/LivreNumerique.swift" : {
+    "const-values" : "/Users/jatala/Pictures/Projet_Swift_Gestion_Bibliotheque/1_Code_source/.build/out/Intermediates.noindex/GestionBibliotheque.build/Debug/GestionBibliotheque-p.build/Objects-normal/arm64/LivreNumerique.swiftconstvalues",
+    "dependencies" : "/Users/jatala/Pictures/Projet_Swift_Gestion_Bibliotheque/1_Code_source/.build/out/Intermediates.noindex/GestionBibliotheque.build/Debug/GestionBibliotheque-p.build/Objects-normal/arm64/LivreNumerique.d",
+    "diagnostics" : "/Users/jatala/Pictures/Projet_Swift_Gestion_Bibliotheque/1_Code_source/.build/out/Intermediates.noindex/GestionBibliotheque.build/Debug/GestionBibliotheque-p.build/Objects-normal/arm64/LivreNumerique.dia",
+    "index-unit-output-path" : "/GestionBibliotheque.build/Debug/GestionBibliotheque-p.build/Objects-normal/arm64/LivreNumerique.o",
+    "llvm-bc" : "/Users/jatala/Pictures/Projet_Swift_Gestion_Bibliotheque/1_Code_source/.build/out/Intermediates.noindex/GestionBibliotheque.build/Debug/GestionBibliotheque-p.build/Objects-normal/arm64/LivreNumerique.bc",
+    "object" : "/Users/jatala/Pictures/Projet_Swift_Gestion_Bibliotheque/1_Code_source/.build/out/Intermediates.noindex/GestionBibliotheque.build/Debug/GestionBibliotheque-p.build/Objects-normal/arm64/LivreNumerique.o",
+    "swift-dependencies" : "/Users/jatala/Pictures/Projet_Swift_Gestion_Bibliotheque/1_Code_source/.build/out/Intermediates.noindex/GestionBibliotheque.build/Debug/GestionBibliotheque-p.build/Objects-normal/arm64/LivreNumerique.swiftdeps",
+    "swiftmodule" : "/Users/jatala/Pictures/Projet_Swift_Gestion_Bibliotheque/1_Code_source/.build/out/Intermediates.noindex/GestionBibliotheque.build/Debug/GestionBibliotheque-p.build/Objects-normal/arm64/LivreNumerique~partial.swiftmodule"
+  },
+  "/Users/jatala/Pictures/Projet_Swift_Gestion_Bibliotheque/1_Code_source/Sources/GestionBibliotheque/LivrePapier.swift" : {
+    "const-values" : "/Users/jatala/Pictures/Projet_Swift_Gestion_Bibliotheque/1_Code_source/.build/out/Intermediates.noindex/GestionBibliotheque.build/Debug/GestionBibliotheque-p.build/Objects-normal/arm64/LivrePapier.swiftconstvalues",
+    "dependencies" : "/Users/jatala/Pictures/Projet_Swift_Gestion_Bibliotheque/1_Code_source/.build/out/Intermediates.noindex/GestionBibliotheque.build/Debug/GestionBibliotheque-p.build/Objects-normal/arm64/LivrePapier.d",
+    "diagnostics" : "/Users/jatala/Pictures/Projet_Swift_Gestion_Bibliotheque/1_Code_source/.build/out/Intermediates.noindex/GestionBibliotheque.build/Debug/GestionBibliotheque-p.build/Objects-normal/arm64/LivrePapier.dia",
+    "index-unit-output-path" : "/GestionBibliotheque.build/Debug/GestionBibliotheque-p.build/Objects-normal/arm64/LivrePapier.o",
+    "llvm-bc" : "/Users/jatala/Pictures/Projet_Swift_Gestion_Bibliotheque/1_Code_source/.build/out/Intermediates.noindex/GestionBibliotheque.build/Debug/GestionBibliotheque-p.build/Objects-normal/arm64/LivrePapier.bc",
+    "object" : "/Users/jatala/Pictures/Projet_Swift_Gestion_Bibliotheque/1_Code_source/.build/out/Intermediates.noindex/GestionBibliotheque.build/Debug/GestionBibliotheque-p.build/Objects-normal/arm64/LivrePapier.o",
+    "swift-dependencies" : "/Users/jatala/Pictures/Projet_Swift_Gestion_Bibliotheque/1_Code_source/.build/out/Intermediates.noindex/GestionBibliotheque.build/Debug/GestionBibliotheque-p.build/Objects-normal/arm64/LivrePapier.swiftdeps",
+    "swiftmodule" : "/Users/jatala/Pictures/Projet_Swift_Gestion_Bibliotheque/1_Code_source/.build/out/Intermediates.noindex/GestionBibliotheque.build/Debug/GestionBibliotheque-p.build/Objects-normal/arm64/LivrePapier~partial.swiftmodule"
+  },
+  "/Users/jatala/Pictures/Projet_Swift_Gestion_Bibliotheque/1_Code_source/Sources/GestionBibliotheque/TestsScenario.swift" : {
+    "const-values" : "/Users/jatala/Pictures/Projet_Swift_Gestion_Bibliotheque/1_Code_source/.build/out/Intermediates.noindex/GestionBibliotheque.build/Debug/GestionBibliotheque-p.build/Objects-normal/arm64/TestsScenario.swiftconstvalues",
+    "dependencies" : "/Users/jatala/Pictures/Projet_Swift_Gestion_Bibliotheque/1_Code_source/.build/out/Intermediates.noindex/GestionBibliotheque.build/Debug/GestionBibliotheque-p.build/Objects-normal/arm64/TestsScenario.d",
+    "diagnostics" : "/Users/jatala/Pictures/Projet_Swift_Gestion_Bibliotheque/1_Code_source/.build/out/Intermediates.noindex/GestionBibliotheque.build/Debug/GestionBibliotheque-p.build/Objects-normal/arm64/TestsScenario.dia",
+    "index-unit-output-path" : "/GestionBibliotheque.build/Debug/GestionBibliotheque-p.build/Objects-normal/arm64/TestsScenario.o",
+    "llvm-bc" : "/Users/jatala/Pictures/Projet_Swift_Gestion_Bibliotheque/1_Code_source/.build/out/Intermediates.noindex/GestionBibliotheque.build/Debug/GestionBibliotheque-p.build/Objects-normal/arm64/TestsScenario.bc",
+    "object" : "/Users/jatala/Pictures/Projet_Swift_Gestion_Bibliotheque/1_Code_source/.build/out/Intermediates.noindex/GestionBibliotheque.build/Debug/GestionBibliotheque-p.build/Objects-normal/arm64/TestsScenario.o",
+    "swift-dependencies" : "/Users/jatala/Pictures/Projet_Swift_Gestion_Bibliotheque/1_Code_source/.build/out/Intermediates.noindex/GestionBibliotheque.build/Debug/GestionBibliotheque-p.build/Objects-normal/arm64/TestsScenario.swiftdeps",
+    "swiftmodule" : "/Users/jatala/Pictures/Projet_Swift_Gestion_Bibliotheque/1_Code_source/.build/out/Intermediates.noindex/GestionBibliotheque.build/Debug/GestionBibliotheque-p.build/Objects-normal/arm64/TestsScenario~partial.swiftmodule"
+  },
+  "/Users/jatala/Pictures/Projet_Swift_Gestion_Bibliotheque/1_Code_source/Sources/GestionBibliotheque/main.swift" : {
+    "const-values" : "/Users/jatala/Pictures/Projet_Swift_Gestion_Bibliotheque/1_Code_source/.build/out/Intermediates.noindex/GestionBibliotheque.build/Debug/GestionBibliotheque-p.build/Objects-normal/arm64/main.swiftconstvalues",
+    "dependencies" : "/Users/jatala/Pictures/Projet_Swift_Gestion_Bibliotheque/1_Code_source/.build/out/Intermediates.noindex/GestionBibliotheque.build/Debug/GestionBibliotheque-p.build/Objects-normal/arm64/main.d",
+    "diagnostics" : "/Users/jatala/Pictures/Projet_Swift_Gestion_Bibliotheque/1_Code_source/.build/out/Intermediates.noindex/GestionBibliotheque.build/Debug/GestionBibliotheque-p.build/Objects-normal/arm64/main.dia",
+    "index-unit-output-path" : "/GestionBibliotheque.build/Debug/GestionBibliotheque-p.build/Objects-normal/arm64/main.o",
+    "llvm-bc" : "/Users/jatala/Pictures/Projet_Swift_Gestion_Bibliotheque/1_Code_source/.build/out/Intermediates.noindex/GestionBibliotheque.build/Debug/GestionBibliotheque-p.build/Objects-normal/arm64/main.bc",
+    "object" : "/Users/jatala/Pictures/Projet_Swift_Gestion_Bibliotheque/1_Code_source/.build/out/Intermediates.noindex/GestionBibliotheque.build/Debug/GestionBibliotheque-p.build/Objects-normal/arm64/main.o",
+    "swift-dependencies" : "/Users/jatala/Pictures/Projet_Swift_Gestion_Bibliotheque/1_Code_source/.build/out/Intermediates.noindex/GestionBibliotheque.build/Debug/GestionBibliotheque-p.build/Objects-normal/arm64/main.swiftdeps",
+    "swiftmodule" : "/Users/jatala/Pictures/Projet_Swift_Gestion_Bibliotheque/1_Code_source/.build/out/Intermediates.noindex/GestionBibliotheque.build/Debug/GestionBibliotheque-p.build/Objects-normal/arm64/main~partial.swiftmodule"
+  }
+}

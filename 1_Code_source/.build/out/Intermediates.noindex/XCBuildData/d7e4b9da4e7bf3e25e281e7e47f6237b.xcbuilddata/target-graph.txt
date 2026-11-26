@@ -1,0 +1,2 @@
+Target dependency graph (1 target)
+Target 'GestionBibliotheque-product' in project 'GestionBibliotheque' (no dependencies)

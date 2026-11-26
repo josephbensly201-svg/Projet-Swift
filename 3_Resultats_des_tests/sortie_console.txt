@@ -1,0 +1,127 @@
+
+================================================================
+Test 1 : Créer une bibliothèque
+================================================================
+Bibliothèque « CHCL » créée.
+  Vérification : le catalogue est vide au départ -> OK
+
+================================================================
+Test 2 : Ajouter au moins trois livres
+================================================================
+Livre ajouté : « Gouverneurs de la rosée » (1 au catalogue).
+Livre ajouté : « Compère Général Soleil » (2 au catalogue).
+Livre ajouté : « Le Petit Prince » (3 au catalogue).
+Livre ajouté : « Pays sans chapeau » (4 au catalogue).
+  Vérification : le catalogue contient 4 livres -> OK
+
+================================================================
+Test 3 : Créer un adhérent
+================================================================
+Adhérent « Mathieu Pierre » créé.
+  Vérification : il n'a aucun livre emprunté -> OK
+
+================================================================
+Test 4 : Afficher le catalogue
+================================================================
+Catalogue de la bibliothèque CHCL (4 livres) :
+- Titre : Gouverneurs de la rosée | Auteur : Jacques Roumain | Statut : Disponible
+  Type : Livre papier | Nombre de pages : 224
+- Titre : Compère Général Soleil | Auteur : Jacques Stephen Alexis | Statut : Disponible
+  Type : Livre papier | Nombre de pages : 366
+- Titre : Le Petit Prince | Auteur : Antoine de Saint-Exupéry | Statut : Disponible
+  Type : Livre numérique | Taille du fichier : 2.4 Mo
+- Titre : Pays sans chapeau | Auteur : Dany Laferrière | Statut : Disponible
+  Type : Livre numérique | Taille du fichier : 1.8 Mo
+
+================================================================
+Test 5 : Emprunter un livre
+================================================================
+Succès : Mathieu Pierre a emprunté « Gouverneurs de la rosée ».
+Succès : Mathieu Pierre a emprunté « Compère Général Soleil ».
+Succès : Mathieu Pierre a emprunté « Le Petit Prince ».
+  Vérification : « Gouverneurs de la rosée » n'est plus disponible -> OK
+  Vérification : l'adhérent a 3 livres empruntés -> OK
+
+================================================================
+Test 6 : Essayer d'emprunter un livre déjà emprunté
+================================================================
+Refusé : Mathieu Pierre a déjà emprunté « Gouverneurs de la rosée ».
+  Vérification : l'emprunt est refusé -> OK
+  Vérification : l'adhérent a toujours 3 livres empruntés -> OK
+
+================================================================
+Test 7 : Retourner un livre
+================================================================
+Succès : Mathieu Pierre a retourné « Gouverneurs de la rosée ».
+  Vérification : « Gouverneurs de la rosée » est de nouveau disponible -> OK
+  Vérification : l'adhérent a 2 livres empruntés -> OK
+
+================================================================
+Test 8 : Afficher les livres empruntés par l'adhérent
+================================================================
+Livres empruntés par Mathieu Pierre (2/3) :
+- Titre : Compère Général Soleil | Auteur : Jacques Stephen Alexis | Statut : Emprunté
+  Type : Livre papier | Nombre de pages : 366
+- Titre : Le Petit Prince | Auteur : Antoine de Saint-Exupéry | Statut : Emprunté
+  Type : Livre numérique | Taille du fichier : 2.4 Mo
+
+================================================================
+Test complémentaire A : limite de trois livres par adhérent
+================================================================
+Succès : Mathieu Pierre a emprunté « Gouverneurs de la rosée ».
+Refusé : Mathieu Pierre a atteint la limite de 3 livres empruntés.
+  Vérification : le 3e emprunt est accepté (3 livres) -> OK
+  Vérification : le 4e emprunt est refusé -> OK
+  Vérification : « Pays sans chapeau » est resté disponible -> OK
+
+================================================================
+Test complémentaire B : livre déjà emprunté par un autre adhérent
+================================================================
+Adhérent « Marie Joseph » créé.
+Refusé : « Compère Général Soleil » n'est pas disponible (déjà emprunté).
+  Vérification : l'emprunt est refusé -> OK
+Succès : Marie Joseph a emprunté « Pays sans chapeau ».
+  Vérification : « Pays sans chapeau » est maintenant emprunté -> OK
+
+================================================================
+Test complémentaire C : retour d'un livre non emprunté
+================================================================
+Refusé : Marie Joseph n'a pas emprunté « Le Petit Prince ».
+  Vérification : le retour est refusé -> OK
+  Vérification : « Le Petit Prince » reste emprunté (par Mathieu Pierre) -> OK
+Succès : Mathieu Pierre a retourné « Compère Général Soleil ».
+  Vérification : « Compère Général Soleil » est de nouveau disponible -> OK
+
+================================================================
+Test complémentaire D : rechercher un livre par son titre
+================================================================
+Recherche « petit prince » : livre trouvé.
+- Titre : Le Petit Prince | Auteur : Antoine de Saint-Exupéry | Statut : Emprunté
+  Type : Livre numérique | Taille du fichier : 2.4 Mo
+Recherche « général soleil » : livre trouvé.
+- Titre : Compère Général Soleil | Auteur : Jacques Stephen Alexis | Statut : Disponible
+  Type : Livre papier | Nombre de pages : 366
+Recherche « Les Misérables » : aucun livre trouvé.
+
+================================================================
+Test complémentaire E : état final
+================================================================
+Catalogue de la bibliothèque CHCL (4 livres) :
+- Titre : Gouverneurs de la rosée | Auteur : Jacques Roumain | Statut : Emprunté
+  Type : Livre papier | Nombre de pages : 224
+- Titre : Compère Général Soleil | Auteur : Jacques Stephen Alexis | Statut : Disponible
+  Type : Livre papier | Nombre de pages : 366
+- Titre : Le Petit Prince | Auteur : Antoine de Saint-Exupéry | Statut : Emprunté
+  Type : Livre numérique | Taille du fichier : 2.4 Mo
+- Titre : Pays sans chapeau | Auteur : Dany Laferrière | Statut : Emprunté
+  Type : Livre numérique | Taille du fichier : 1.8 Mo
+Livres empruntés par Mathieu Pierre (2/3) :
+- Titre : Le Petit Prince | Auteur : Antoine de Saint-Exupéry | Statut : Emprunté
+  Type : Livre numérique | Taille du fichier : 2.4 Mo
+- Titre : Gouverneurs de la rosée | Auteur : Jacques Roumain | Statut : Emprunté
+  Type : Livre papier | Nombre de pages : 224
+Livres empruntés par Marie Joseph (1/3) :
+- Titre : Pays sans chapeau | Auteur : Dany Laferrière | Statut : Emprunté
+  Type : Livre numérique | Taille du fichier : 1.8 Mo
+
+Fin du programme.
